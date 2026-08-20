@@ -1,11 +1,11 @@
-# Chúc Mừng Tốt Nghiệp Bạn
+# Một góc nhỏ của con mèo tên là _haanzz_
 
-Template quà tốt nghiệp dạng vũ trụ 3D:
+Góc kỷ niệm dạng vũ trụ 3D của _haanzz_:
 
 - Hành tinh hồng phát sáng ở giữa.
 - Ảnh kỷ niệm bay vòng quanh bằng Three.js.
 - Nền sao/tuyết lấp lánh.
-- Nút mở quà, phát nhạc, và toàn màn hình.
+- Nút mở góc nhỏ, phát nhạc, và toàn màn hình.
 
 ## Chạy local
 
@@ -20,9 +20,9 @@ Mở `http://localhost:4173`.
 Đặt ảnh vào `assets/photos` theo mẫu:
 
 ```text
-Anh (1).jpg
-Anh (2).jpeg
-Anh (3).png
+haanzz-01.jpg
+haanzz-02.jpg
+haanzz-03.jpg
 ```
 
 Sau đó thêm đường dẫn ảnh mới vào `PHOTO_SOURCES` trong `src/photo-assets.js`.
